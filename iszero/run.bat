@@ -1,2 +1,2 @@
-python3 noah.py
+python3 iszero.py
 pause
